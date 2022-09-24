@@ -1,1 +1,0 @@
-print('git lesson  print hello !')
